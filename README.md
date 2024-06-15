@@ -184,7 +184,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Muhammad Rosyid Suseno - [@rosyids_](https://instagram.com/rosyids_) - muhammadrosyid1229@gmail.coml
+Muhammad Rosyid Suseno - [@rosyids_](https://instagram.com/rosyids_) - muhammadrosyid1229@gmail.com
 
 Project Link: [https://github.com/awcereh/Ozon-Detection](https://github.com/awcereh/Ozon-Detection)
 
