@@ -252,7 +252,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [FFT-url]: images/fft.png
 [PCA-url]: images/pca.png
-[Modelling-url]: images/modelling.png
+[Modelling-url]: images/modelling.jpg
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
