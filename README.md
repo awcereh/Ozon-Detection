@@ -26,9 +26,6 @@
   <p align="center">
     A final project for the Computational Physics Capita Selecta course.
     <br />
-    <a href="https://github.com/awcereh/Ozon-Detection"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/awcereh/Ozon-Detection">View Demo</a>
     ·
     <a href="https://www.datascienceportfol.io/rosyids_">Report Bug</a>
