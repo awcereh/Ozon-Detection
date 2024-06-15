@@ -129,11 +129,29 @@ _If you want to run the code for learning purposes or to change the parameters, 
 The purpose of the project Analyzing the Ozone Level detection dataset using Fast Fourier Transform, performing visualization and data reduction (PCA), and creating prediction models
 
 ### Fast Fourier Transform
-[![FFT][FFT.test]][FFT-url]
+[![FFT][FFT-url]
+The Fourier coefficients were obtained from the FFT computation of daily wind speed measurements from 1998 to 2004.
 
+The first Matplotlib graph shows the Fourier coefficient graph for each WSR wind speed along with the largest Fourier coefficient value.
+The second graph shows the Fourier coefficient graph for the highest peak wind speed (𝑊𝑆𝑅𝑃𝐾):
+(WSR PK) measured each day from 1998 to 2004, with a maximum Fourier coefficient of 
+MAX 𝑋𝐾
+WSRPK =10566.420707964606
+MAX XK WSRPK =10566.420707964606.
+The third graph shows the Fourier coefficient graph for the average wind speed (𝑊𝑆𝑅𝐴𝑉)
+(WSR AV) measured each day from 1998 to 2004, with a maximum Fourier coefficient of 
+MAX 𝑋𝐾 WSRAV = 5862.8862831858405
+MAX XK WSRAV =5862.8862831858405.
 
+### Principal Component Analysis
+[![PCA][PCA-url]
+According to the reference, the cumulative variance in PCA provides an indication of how much the features (columns) summarize variation in the data. A higher cumulative variance indicates that more data is explained by those features.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Between the two features, WSR and Temperature, the feature that better reduces the data from many dimensions is identified. For the feature DSW, data is reduced from 26 dimensions to 2 dimensions with a variance of 71.73%, while for the Temperature feature, data is reduced from 27 dimensions to 2 dimensions with a variance of 96.43%.
+
+### Modelling Data
+[![Modelling][Modelling-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,7 +250,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Excel.com]: https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 [Excel-url]: https://www.microsoft.com/id-id/microsoft-365/excel
 
-
+[FFT-url]: images/fft.png
+[PCA-url]: images/pca.png
+[Modelling-url]: images/modelling.png
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
